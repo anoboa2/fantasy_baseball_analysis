@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "source": "https://fantasy.espn.com/apis/v3/games/flb/seasons/2023/segments/0/leagues/715098482?view=mTeam",
+    "leagueId": "715098482",
+    "fileCreated": "2023-03-19T15:10:00.000Z",
+    "lastUpdated": "2023-03-25T22:30:00.000Z"
+  },
+  "teams": [
+    {
+      "ownerId": "{09B45A77-9B6D-4F38-91ED-8770EB8E1B39}",
+      "ownerName": "Zack Bessette",
+      "teamId": 1,
+      "espnTeamName": "BG 420",
+      "espnAbbrev": "BESS",
+      "externalNicknames": ["Bret Gardner 420", "BG 420", "BG420", "Bret Gardner", "BG", "Bret", "Gardner", "420", "Zack", "Bessette", "Zack Bessette", "Zack Bessette 420"],
+      "preferredNickname": "BG420"
+    },
+    {
+      "ownerId": "{3A5C6608-D4CA-4A22-9C66-08D4CAFA2282}",
+      "ownerName": "Kevin Boyles",
+      "teamId": 2,
+      "espnTeamName": "Vandelay Industries",
+      "espnAbbrev": "ART",
+      "externalNicknames": ["Vandelay Industries", "Vandelay", "Industries", "Kevin", "Boyles", "Kevin Boyles", "KB", "KBoyles", "Art Vandelay"],
+      "preferredNickname": "KB"
+    },
+    {
+      "ownerId": "{DD7CBFDF-7F2F-4621-9E9F-6AB906B0A4E0}",
+      "ownerName": "Kyle Booth",
+      "teamId": 3,
+      "espnTeamName": "Big Trains",
+      "espnAbbrev": "🚂",
+      "externalNicknames": ["Big Trains", "Big", "Trains", "Big Train", "Little Train", "Baby Train", "Big Trans", "Big Eunuch", "Eunuch", "Choo Choo", "Kyle", "Booth", "Kyle Booth", "KBooth", "Ben", "Ben Booth"],
+      "preferredNickname": "Big Trains"
+    },
+    {
+      "ownerId": "{496167B6-CD2E-43D3-A167-B6CD2E13D3DC}",
+      "ownerName": "Ant Barberio",
+      "teamId": 4,
+      "espnTeamName": "RIP PAULIE WALNUTS",
+      "espnAbbrev": "BARB",
+      "externalNicknames": ["Itallion Stallion", "Barberio", "Barbs", "Anthony Barberio", "Ant", "Anthony"],
+      "preferredNickname": "Barbs"
+    },
+    {
+      "ownerId": "{867A4865-E8ED-4B99-AA91-BA90D083604F}",
+      "ownerName": "Mike Qualiano",
+      "teamId": 5,
+      "espnTeamName": "Loser's Club L",
+      "espnAbbrev": "LCBC",
+      "externalNicknames": ["Acknowledge Me", "Michael Qualiano", "Mike Qualiano", "Mike", "MQ", "QBalls", "Q", "Q-Balls", "Mikester", "Mikey", "Mikey the Grouch", "Chat Grouch"],
+      "preferredNickname": "MQ"
+    },
+    {
+      "ownerId": "{3E3F98D3-2293-4575-90D1-9BFED4AE4C75}",
+      "ownerName": "Todd Qualiano",
+      "teamId": 6,
+      "espnTeamName": "Commissioner Gethbot420",
+      "espnAbbrev": "GETH",
+      "externalNicknames": ["Gethbot420", "Gethbot", "Supreme Commissioner", "Commissioner", "Todd", "Todd Qualiano", "TQ", "Quallusion"],
+      "preferredNickname": "Supreme Commissioner"
+    },
+    {
+      "ownerId": "{2F286BB6-5283-441B-B4A5-26AB1F99DDF0}",
+      "ownerName": "Nick Whittaker",
+      "teamId": 7,
+      "espnTeamName": "The Dissenters",
+      "espnAbbrev": "WHIT",
+      "externalNicknames": ["Dissenter", "Nicholas Whittaker", "Nick Whittaker", "Nick", "Whittaker", "Sir Litigious"],
+      "preferredNickname": "Dissenter"
+    },
+    {
+      "ownerId": "{3E5B2F0F-1310-41CE-95E8-3CAB10720FAB}",
+      "ownerName": "Alex Noboa",
+      "teamId": 8,
+      "espnTeamName": "2-Time Champ Booch",
+      "espnAbbrev": "NOBO",
+      "external_nickname": ["Boochi Boi", "Booch", "Boochie Boi", "Boochie", "Boochi Gang", "Boochi Boy", "Noboa", "Alex Noboa", "Alex"],
+      "preferredNickname": "Boochi"
+    },
+    {
+      "ownerId": "{0A63036C-23F0-41CD-A303-6C23F041CD26}",
+      "ownerName": "Jarrett Booth",
+      "teamId": 9,
+      "espnTeamName": "Pecan Sandies",
+      "espnAbbrev": "PS",
+      "external_nickname": ["Jarrett", "Not Strenner", "Jarrett Not Strenner", "Jarrett Booth"],
+      "preferredNickname": "Jarrett"
+    },
+    {
+      "ownerId": "{F722388C-B0C3-43CE-88B3-71C5023FBA44}",
+      "ownerName": "Mike Matt",
+      "teamId": 10,
+      "espnTeamName": "Nomar Losing",
+      "espnAbbrev": "MATT",
+      "external_nickname": ["Mike Matt", "Michael Matt", "Lebronston"],
+      "preferredNickname": "Lebronston"
+    },
+    {
+      "ownerId": "{60357C4E-8F4C-4A47-84DA-42B923FA1FE7}",
+      "ownerName": "Chris Qualiano",
+      "teamId": 11,
+      "espnTeamName": "Hot Italian Snausages",
+      "espnAbbrev": "HIS",
+      "external_nickname": ["Chris Qualiano", "Snausages", "Hot Italian", "Italian Snausages", "Chris", "older brother"],
+      "preferredNickname": "Snausages"
+    },
+    {
+      "ownerId": "{2EA0F481-AE10-4E45-A884-A5190F7CEF7D}",
+      "ownerName": "Brian Healy",
+      "teamId": 12,
+      "espnTeamName": "Rocket City Trash Pandas",
+      "espnAbbrev": "RCTP",
+      "external_nickname": ["Trash Pandas", "Trash", "Pandas", "Rocket City", "Rocket City Trash", "Rocket City Pandas", "Trash Bags", "Brian", "Healy", "Brian Healy"],
+      "preferredNickname": "Trash Pandas"
+    }
+  ]
+}

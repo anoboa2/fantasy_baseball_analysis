@@ -1,0 +1,262 @@
+[
+  {
+    "ownerTeamId": 1,
+    "ownerName": "Zack",
+    "mlbWeights": [
+      {
+        "teamId": 25,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 18,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 21,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 17,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 22,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 2,
+        "ownerPreferenceWeight": -0.4
+      },
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": -0.5
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 2,
+    "ownerName": "Kevin",
+    "mlbWeights": [
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 15,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 19,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 2,
+        "ownerPreferenceWeight": -0.3
+      },
+      {
+        "teamId": 11,
+        "ownerPreferenceWeight": -0.6
+      },
+      {
+        "teamId": 17,
+        "ownerPreferenceWeight": -0.6
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 3,
+    "ownerName": "Kyle",
+    "mlbWeights": [
+      {
+        "teamId": 22,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 1,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 21,
+        "ownerPreferenceWeight": -0.2
+      },
+      {
+        "teamId": 15,
+        "ownerPreferenceWeight": -0.2
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 4,
+    "ownerName": "Ant",
+    "mlbWeights": [
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 1,
+        "ownerPreferenceWeight": 0.4
+      },
+      {
+        "teamId": 2,
+        "ownerPreferenceWeight": -0.1
+      },
+      {
+        "teamId": 18,
+        "ownerPreferenceWeight": -0.5
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 5,
+    "ownerName": "Mike Q",
+    "mlbWeights": [
+      {
+        "teamId": 24,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 18,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 22,
+        "ownerPreferenceWeight": -0.5
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 6,
+    "ownerName": "Todd",
+    "mlbWeights": [
+      {
+        "teamId": 21,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 18,
+        "ownerPreferenceWeight": 0.4
+      },
+      {
+        "teamId": 22,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 25,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 17,
+        "ownerPreferenceWeight": 0.1
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 7,
+    "ownerName": "Nick",
+    "mlbWeights": [
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 0.5
+      },
+      {
+        "teamId": 2,
+        "ownerPreferenceWeight": -0.2
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 8,
+    "ownerName": "Alex",
+    "mlbWeights": [
+      {
+        "teamId": 2,
+        "ownerPreferenceWeight": 1
+      },
+      {
+        "teamId": 3,
+        "ownerPreferenceWeight": 0.3
+      },
+      {
+        "teamId": 18,
+        "ownerPreferenceWeight": 0.3
+      },
+      {
+        "teamId": 12,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 29,
+        "ownerPreferenceWeight": 0.2
+      },
+      {
+        "teamId": 28,
+        "ownerPreferenceWeight": 0.1
+      },
+      {
+        "teamId": 27,
+        "ownerPreferenceWeight": -0.1
+      },
+      {
+        "teamId": 20,
+        "ownerPreferenceWeight": -0.1
+      },
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": -0.5
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 9,
+    "ownerName": "Jarrett",
+    "mlbWeights": [
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 1
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 10,
+    "ownerName": "Mike M",
+    "mlbWeights": [
+      {
+        "teamId": 2,
+        "ownerPreferenceWeight": 0.8
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 11,
+    "ownerName": "Chris",
+    "mlbWeights": [
+      {
+        "teamId": 21,
+        "ownerPreferenceWeight": 0.8
+      }
+    ]
+  },
+  {
+    "ownerTeamId": 12,
+    "ownerName": "Matt",
+    "mlbWeights": [
+      {
+        "teamId": 10,
+        "ownerPreferenceWeight": 1
+      }
+    ]
+  }
+]

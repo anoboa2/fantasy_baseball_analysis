@@ -1,0 +1,14 @@
+[
+  {"teamId": 1, "teamName": "BG 420", "draftOrder": 1},
+  {"teamId": 2, "teamName": "Vandelay Industries", "draftOrder": 12},
+  {"teamId": 3, "teamName": "Big Trains", "draftOrder": 10},
+  {"teamId": 4, "teamName": "RIP Paulie Walnuts", "draftOrder": 4},
+  {"teamId": 5, "teamName": "Loser's Club L", "draftOrder": 3},
+  {"teamId": 6, "teamName": "Commissioner Getbot420", "draftOrder": 9},
+  {"teamId": 7, "teamName": "The Dissenters", "draftOrder": 2},
+  {"teamId": 8, "teamName": "2-Time Champ Booch", "draftOrder": 8},
+  {"teamId": 9, "teamName": "Pecan Sandies", "draftOrder": 6},
+  {"teamId": 10, "teamName": "Nomar Losing", "draftOrder": 5},
+  {"teamId": 11, "teamName": "Hot Italian Snausages", "draftOrder": 11},
+  {"teamId": 12, "teamName": "Rocket City Trash Pandas", "draftOrder": 7}
+]

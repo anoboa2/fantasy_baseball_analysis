@@ -1,0 +1,39 @@
+// Description of what goes into stat payloads from ESPN
+// {
+//   "appliedAverage": "some sort of calculated stat; potentially the average amount of points the player earns per day",
+//   "appliedTotal": "an aggregated stat of the total amount of points the player has earned for the season",
+//   "externalId": "the ID of the season the stats are aggregated from",
+//   "id": "the ID that describes where the stats are from and how they were aggregated.  It is a composite that uses the statSourceId for the first digit, the statSplitTypeId as the second digit, and the externalId as the last 4 digits",
+//   "proTeamId": "likely the MLB team the player belongs to, but usually is 0",
+//   "scoringPeriodId": "the ID that identifies which matchup the stats belong as set by the Fantasy League",
+//   "seasonId": "the ID that identifies the season the stats belong to, same as externalId",
+//   "statSourceId": "which dataset the stats are pulled from",
+//   "statSplitTypeId": "how the stats are aggregated",
+//   "stats": "an object that pairs the statId as the key, with the stat value as the value",
+// }
+[
+  {
+    "id": "002023",
+    "description": "Unknown; currently empty"
+  },
+  {
+    "id": "022023",
+    "description": "Unknown; currently empty; but sets statSplitTypeID to 2"
+  },
+  {
+    "id": "012023",
+    "description": "Unknown; currently empty; but sets statSplitTypeID to 1"
+  },
+  {
+    "id": "002022",
+    "description": "Complete stats from 2022"
+  },
+  {
+    "id": "032023",
+    "description": "Unknown; currently empty; but sets statSplitTypeID to 1"
+  },
+  {
+    "id": "102023",
+    "description": "Stats projected for the 2023 season; statSourceID is set to 1"
+  }
+]

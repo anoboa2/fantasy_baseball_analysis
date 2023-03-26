@@ -1,0 +1,21 @@
+{
+  "0": {"posId": 0, "pos": "Catcher", "abbrev": "C"},
+  "1": {"posId": 1, "pos": "First Base", "abbrev": "1B"},
+  "2": {"posId": 2, "pos": "Second Base", "abbrev": "2B"},
+  "3": {"posId": 3, "pos": "Third Base", "abbrev": "3B"},
+  "4": {"posId": 4, "pos": "Shortstop", "abbrev": "SS"},
+  "5": {"posId": 5, "pos": "Outfield", "abbrev": "OF"},
+  "6": {"posId": 6, "pos": "Middle Infielder", "abbrev": "2B/SS"},
+  "7": {"posId": 7, "pos": "Corner Infielder", "abbrev": "1B/3B"},
+  "8": {"posId": 8, "pos": "Left Field", "abbrev": "LF"},
+  "9": {"posId": 9, "pos": "Center Field", "abbrev": "CF"},
+  "10": {"posId": 10, "pos": "Right Field", "abbrev": "RF"},
+  "11": {"posId": 11, "pos": "Designated Hitter", "abbrev": "DH"},
+  "12": {"posId": 12, "pos": "Utility", "abbrev": "UTIL"},
+  "13": {"posId": 13, "pos": "Pitcher", "abbrev": "P"},
+  "14": {"posId": 14, "pos": "Starting Pitcher", "abbrev": "SP"},
+  "15": {"posId": 15, "pos": "Relief Pitcher", "abbrev": "RP"},
+  "16": {"posId": 16, "pos": "Bench", "abbrev": "BE"},
+  "17": {"posId": 17, "pos": "Injured List", "abbrev": "IL"},
+  "19": {"posId": 19, "pos": "Infielder", "abbrev": "IF"}
+}
