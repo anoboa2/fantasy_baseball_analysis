@@ -7,6 +7,7 @@ name = "pypi"
 pandas = "*"
 python-dotenv = "*"
 requests = "*"
+scikit-learn = "*"
 
 [dev-packages]
 ipykernel = "*"
