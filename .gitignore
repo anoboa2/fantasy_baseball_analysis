@@ -1,0 +1,6 @@
+lookups/*
+misc-data/*
+.env
+matchup_check.ipynb
+owner-mlb-team-weights.json
+owner-mlb-team-weights-adjusted.json
